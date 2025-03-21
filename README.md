@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3.11.9%2B-blue)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.9-green)  
 ![DeepFace](https://img.shields.io/badge/DeepFace-0.0.89-orange)  
+![Mediapipe](https://img.shields.io/badge/Mediapipe-0.1.21--Clause-red)  
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-yellow)  
+
 
 ## 📑 Table of Contents
 - [✨ Features](#-features)
